@@ -1,0 +1,7 @@
+{
+  "utterance": "Make a coffee please",
+  "intent_type": "CoffeeOrderIntent",
+  "intent": {
+    "CoffeeOrderKeyword": "coffee"
+  }
+}
